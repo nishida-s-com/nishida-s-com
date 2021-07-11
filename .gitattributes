@@ -1,0 +1,2 @@
+reactor/reactor.wmv filter=lfs diff=lfs merge=lfs -text
+main/categ4/36kumanokodo/nachi-fall.wmv filter=lfs diff=lfs merge=lfs -text
